@@ -34,6 +34,8 @@
             Console.WriteLine(Name[i]);
         }
 
+        Id[2] = 
+
 
     }
 }
