@@ -24,5 +24,7 @@
         int n = Convert.ToInt32(Console.ReadLine());
         EvenOddCalculation method = new EvenOddCalculation();
         method.EvenOddCalculationMethod(n);
+
+        //end
     }
 }
