@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Coke-CIP", "Coke-CIP\Coke-CIP.csproj", "{7C61BB21-EADA-477D-8B57-B92516474D36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C61BB21-EADA-477D-8B57-B92516474D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C61BB21-EADA-477D-8B57-B92516474D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C61BB21-EADA-477D-8B57-B92516474D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C61BB21-EADA-477D-8B57-B92516474D36}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4ADA9185-148C-4FFE-B53B-21E13D5E7D3A}
+	EndGlobalSection
+EndGlobal
